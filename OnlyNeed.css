@@ -1,0 +1,103 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* There are many UNITS in CSS but we only need these */
+/* Units in CSS */
+/* px,em,rem,%,vw,vh,vmin,vmax */
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+/* .main {
+    height: 80%;
+    width: 80vw;
+    /* margin: 12px; */
+/* margin: 33px 24px 26px 7px; */
+/* margin-top: 12;
+    margin-bottom:12 ;
+    margin-left: 12;
+    margin-right:12 ; */
+
+/* padding: 23px; */
+/* padding: 31px 14px 18px 34px; */
+/* padding-top: 23;
+    padding-bottom:23 ;
+    padding-left: 23;
+    padding-right:23 ; */
+/* background: #db6d6d; */
+
+/* } */
+
+
+/* Position in CSS */
+/* .main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    background: red;
+
+} */
+
+/* .car1 {
+
+    height: 100px;
+    width: 100px;
+    background: #000;
+}
+
+.car2 {
+
+    height: 120px;
+    width: 120px;
+    background: #f2f;
+
+}
+
+.car3 {
+
+    height: 120px;
+    width: 120px;
+    background: #453;
+} */
+
+/* Flexbox in CSS */
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 400px;
+    width: 400px;
+    background: red;
+
+}
+
+.car1 {
+
+    height: 100px;
+    width: 100px;
+    background: #000;
+}
+
+.car2 {
+
+    height: 120px;
+    width: 120px;
+    background: #f2f;
+
+}
+
+.car3 {
+
+    height: 120px;
+    width: 120px;
+    background: #453;
+}
